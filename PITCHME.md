@@ -21,15 +21,16 @@
 ## Jokes
 
 +++
-
 Was unter Wasser ist wie ein Stern?
-
 +++?image=starfish.jpg
-
 Ein Seestern
 
 +++
-
 Was unter Wasser ist wie ein Regenbogen?
-
 +++?image=clownfish.jpg
+Clownfisch
+
++++
+Was ist ist unter Wasser wie Wackelpudding?
++++?image=octopus.jpg
+Ein Octopus

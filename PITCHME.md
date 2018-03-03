@@ -4,6 +4,8 @@
 
 ## Haie
 
+!(Hai)[hai.jpg]
+
 - Scharfe Zähne
 
 ---

@@ -20,10 +20,16 @@
 
 ## Jokes
 
----
++++
 
 Was unter Wasser ist wie ein Stern?
 
----?image=starfish.jpg
++++?image=starfish.jpg
 
 Ein Seestern
+
++++
+
+Was unter Wasser ist wie ein Regenbogen?
+
++++?image=clownfish.jpg

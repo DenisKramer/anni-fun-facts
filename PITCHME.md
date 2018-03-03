@@ -15,3 +15,15 @@
 
 - Können nicht unter Wasser atmen, weil Sie Lungen haben (wie Menschen)
 - Gehen nicht zu tief unter Wasser
+
+---
+
+## Jokes
+
+---
+
+Was unter Wasser ist wie ein Stern?
+
+---?image=starfish.jpg
+
+Ein Seestern

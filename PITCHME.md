@@ -6,7 +6,8 @@
 
 - Scharfe Zähne
 - Skelette aus Knorpel
----
+
+---?image=dolphin.jpg
 
 ## Delfine
 

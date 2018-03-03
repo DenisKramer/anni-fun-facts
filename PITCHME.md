@@ -4,7 +4,7 @@
 
 ## Haie
 
-!(Hai)[hai.jpg]
+![Hai](hai.jpg)
 
 - Scharfe Zähne
 

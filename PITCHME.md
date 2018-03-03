@@ -1,13 +1,11 @@
 # Anni's Spass Fakten
 
----
+---?image=hai.jpg
 
 ## Haie
 
-![Hai](hai.jpg)
-
 - Scharfe Zähne
-
+- Skelette aus Knorpel
 ---
 
 ## Delfine

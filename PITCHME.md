@@ -42,5 +42,5 @@ Der grosse, weisse Hai
 
 +++
 Welcher Fisch hat eine Lampe?
-+++?anglerfish.png
++++?image=anglerfish.png
 Der Seeteufel

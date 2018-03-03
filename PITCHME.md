@@ -31,7 +31,7 @@ Was unter Wasser ist wie ein Regenbogen?
 Clownfisch
 
 +++
-Was ist ist unter Wasser wie Wackelpudding?
+Was ist unter Wasser wie Wackelpudding?
 +++?image=octopus.jpg
 Ein Octopus
 
@@ -39,6 +39,11 @@ Ein Octopus
 Was ist unter Wasser weiss wie Schnee?
 +++?image=shark.jpg
 Der grosse, weisse Hai
+
++++
+Was findet man wenn man ein Haus baut unter Wasser?
++++?image=hammerhead.jpg
+Den Hammerhai
 
 +++
 Welcher Fisch hat eine Lampe?

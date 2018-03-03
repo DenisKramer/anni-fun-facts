@@ -34,3 +34,8 @@ Clownfisch
 Was ist ist unter Wasser wie Wackelpudding?
 +++?image=octopus.jpg
 Ein Octopus
+
++++
+Was ist unter Wasser weiss wie Schnee?
++++?image=shark.jpg
+Der grosse, weisse Hai

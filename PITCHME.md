@@ -1,51 +1,13 @@
 # Anni's Spass Fakten
 
-![Dolphin or Shark](title.jpg)
+---
 
----?image=hai.jpg
-
-## Haie
-
-- Scharfe Zähne
-- Skelette aus Knorpel
-
----?image=dolphin.jpg
-
-## Delfine
-
-- Können nicht unter Wasser atmen, weil Sie Lungen haben (wie Menschen)
-- Gehen nicht zu tief unter Wasser
+## Unter Wasser
 
 ---
 
-## Jokes
+## In der Kälte
 
-+++
-Was unter Wasser ist wie ein Stern?
-+++?image=starfish.jpg
-Ein Seestern
+---
 
-+++
-Was unter Wasser ist wie ein Regenbogen?
-+++?image=clownfish.jpg
-Clownfisch
-
-+++
-Was ist unter Wasser wie Wackelpudding?
-+++?image=octopus.jpg
-Ein Octopus
-
-+++
-Was ist unter Wasser weiss wie Schnee?
-+++?image=shark.jpg
-Der grosse, weisse Hai
-
-+++
-Was findet man wenn man ein Haus baut unter Wasser?
-+++?image=hammerhead.jpg
-Den Hammerhai
-
-+++
-Welcher Fisch hat eine Lampe?
-+++?image=anglerfish.png
-Der Seeteufel
+## Im Zoo

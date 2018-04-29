@@ -38,3 +38,4 @@
 ## Pandas
 
 - Essen Bambus und ein wenig Fleisch
+- Sind circa 160 Tage schwanger

@@ -18,9 +18,10 @@
 - Zähne erneuern sich ständig
 - Essen Delfine, Robben, und Seelöwen
 
----
-
+---?image=its-cold.jpg
 ## In der Kälte
+
+
 
 ---
 

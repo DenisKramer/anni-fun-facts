@@ -65,3 +65,7 @@ Was legt Eier?
 +++
 Pinguine
 ![Pinguin](emperor.jpg)
+
+---
+Das Ende
+![Ende](zoo-ende.jpg)

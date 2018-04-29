@@ -44,3 +44,9 @@
 
 ---
 # Jokes
+
++++
+
+Was ißt Bambus und klettert auf Bäume?
+
+![Pandas](panda-cubs.jpg)

@@ -26,6 +26,7 @@
 
 - Magelan Pinguine leben bis zu 30 Jahre
 - Essen Fische, Tintenfische, und Krill
+- Kücken schlüpfen nach 1-2 Monaten
 
 ---
 

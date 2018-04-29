@@ -31,6 +31,5 @@
 ![Video](https://www.youtube.com/embed/Tcx6YyXvvRI)
 
 
----
-
+---?image=zoo-map.png
 ## Im Zoo

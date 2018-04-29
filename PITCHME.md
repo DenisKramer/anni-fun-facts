@@ -7,7 +7,7 @@
 # Schildkröten
 
 - Sind Reptilien
-- Sind Klatblüter
+- Sind Kaltblüter
 
 ![Video](https://www.youtube.com/embed/7c7Oz5yNGkE)
 

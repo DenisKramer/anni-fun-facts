@@ -28,6 +28,9 @@
 - Essen Fische, Tintenfische, und Krill
 - Kücken schlüpfen nach 1-2 Monaten
 
+![Video](https://www.youtube.com/embed/Tcx6YyXvvRI)
+
+
 ---
 
 ## Im Zoo

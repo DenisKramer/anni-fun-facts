@@ -58,3 +58,10 @@ Was ist kaltes Blut?
 +++
 Schildkröten
 ![Schildkröten](tortoise.jpg)
+
++++
+Was legt Eier?
+
++++
+Pinguine
+![Pinguin](emperor.jpg)

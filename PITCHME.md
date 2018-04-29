@@ -21,7 +21,10 @@
 ---?image=its-cold.jpg
 ## In der Kälte
 
++++
+## Pinguine
 
+- Magelan Pinguine leben bis zu 30 Jahre
 
 ---
 
